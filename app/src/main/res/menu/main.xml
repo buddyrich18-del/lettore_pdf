@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_open" android:title="@string/open"
+        android:icon="@drawable/ic_folder" android:showAsAction="ifRoom" />
+    <item android:id="@+id/action_goto" android:title="@string/goto_page" android:showAsAction="never" />
+    <item android:id="@+id/action_night" android:title="@string/night" android:checkable="true"
+        android:showAsAction="never" />
+</menu>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lettore PDF</string>
+    <string name="open">Apri PDF</string>
+    <string name="goto_page">Vai alla pagina</string>
+    <string name="night">Modalità notte</string>
+    <string name="empty_text">Nessun documento aperto</string>
+    <string name="err_open">Impossibile aprire il file</string>
+    <string name="err_protected">PDF protetto da password o non accessibile</string>
+</resources>
